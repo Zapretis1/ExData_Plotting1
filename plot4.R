@@ -98,14 +98,14 @@ with(epc_zapretis1, {
     ## Create timeseries of Global Active Power
     plot(Measures, Global_active_power,
          type = "l",
-         xlab =  "",
+         xlab = "",
          ylab = "Global Active Power"
          ) #plot lines, main title, labels
     
     ## Create timeseries of Voltage
     plot(Measures, Voltage,
          type = "l",
-         xlab =  "datetime",
+         xlab = "datetime",
          ylab = "Voltage"
          ) #plot lines, main title, labels
     
@@ -113,7 +113,7 @@ with(epc_zapretis1, {
     plot(Measures, Sub_metering_1,
          type = "l",
          col = "black",
-         xlab =  "",
+         xlab = "",
          ylab = "Energy sub metering"
          ) #type = "n" initialize the plot with nothing in it
     lines(Measures, Sub_metering_2, col = "red")
@@ -123,7 +123,7 @@ with(epc_zapretis1, {
     ## Create timeseries of Global Reactive Power
     plot(Measures, Global_reactive_power,
          type = "l",
-         xlab =  "datetiime",
+         xlab = "datetime",
          ylab = "Global_reactive_power"
          ) #plot lines, main title, labels
     
