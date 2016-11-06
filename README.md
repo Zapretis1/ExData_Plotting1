@@ -1,3 +1,22 @@
+To your attention
+-----------------
+
+You've been chosen to review this assignement. Thank you in advance for your time! I believe such peer reviewed work is both beneficial to students who submit and get thoughtful advice from their peers as well as for reviewers who can discover alternative ways of solving the same problem!
+
+This submission encompasses:
+
+1.	The four figures [`plot1.png`](#plot1png), [`plot2.png`](#plot2png), [`plot3.png`](#plot3png) and [`plot4.png`](#plot4png) resembling the images to be reproduced in this assignment in the folder named "figure"
+2.	The required scripts [`plot1.R`](#plot1r), [`plot2.R`](#plot2r), [`plot3.R`](#plot3r) and [`plot4.R`](#plot4r) which processes the data and produce the corresponding figures.
+3.	The present `README.md` which explains the files mentioned hereabove
+
+Each R code is self contained and will generate the appropriate environment to plot the figures.
+It will create a custom folder in your R workspace. Your R settings will not be modified after complete execution of the script.
+
+Enjoy this review!
+
+Zapretis1
+
+
 ## Introduction
 
 This assignment uses data from
