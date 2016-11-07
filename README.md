@@ -5,8 +5,8 @@ You've been chosen to review this assignement. Thank you in advance for your tim
 
 This submission encompasses:
 
-1.	The four figures [`plot1.png`](#plot1png), [`plot2.png`](#plot2png), [`plot3.png`](#plot3png) and [`plot4.png`](#plot4png) resembling the images to be reproduced in this assignment in the folder named "figure"
-2.	The required scripts [`plot1.R`](#plot1r), [`plot2.R`](#plot2r), [`plot3.R`](#plot3r) and [`plot4.R`](#plot4r) which processes the data and produce the corresponding figures.
+1.	The four figures [`plot1.png`][plot1png], [`plot2.png`][plot2png], [`plot3.png`][plot3png] and [`plot4.png`][plot4png] resembling the images to be reproduced in this assignment in the folder named "figure"
+2.	The required scripts [`plot1.R`][plot1r], [`plot2.R`][plot2r], [`plot3.R`][plot3r] and [`plot4.R`][plot4r] which processes the data and produce the corresponding figures.
 3.	The present `README.md` which explains the files mentioned hereabove
 
 Each R code is self contained and will generate the appropriate environment to plot the figures.
@@ -15,6 +15,15 @@ It will create a custom folder in your R workspace. Your R settings will not be 
 Enjoy this review!
 
 Zapretis1
+
+[plot1r]: https://github.com/Zapretis1/ExData_Plotting1/blob/master/plot1.R
+[plot2r]: https://github.com/Zapretis1/ExData_Plotting1/blob/master/plot2.R
+[plot3r]: https://github.com/Zapretis1/ExData_Plotting1/blob/master/plot3.R
+[plot4r]: https://github.com/Zapretis1/ExData_Plotting1/blob/master/plot4.R
+[plot1png]: https://github.com/Zapretis1/ExData_Plotting1/blob/master/plot1.png
+[plot2png]: https://github.com/Zapretis1/ExData_Plotting1/blob/master/plot2.png
+[plot3png]: https://github.com/Zapretis1/ExData_Plotting1/blob/master/plot3.png
+[plot4png]: https://github.com/Zapretis1/ExData_Plotting1/blob/master/plot4.png
 
 
 ## Introduction
